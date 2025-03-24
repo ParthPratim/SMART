@@ -1,6 +1,3 @@
-HUB_TOKEN=
-HUB_USERNAME=
-
 python3 get_SMART_mixture.py \
     --num_tasks $num_tasks \
     --num_instances $num_instances \
